@@ -56,7 +56,7 @@ int main()
     {
         std::cout << "[not found]" << std::endl;
     }
-    std::cout << "sex";  
+    
     return 0;
 }
     
