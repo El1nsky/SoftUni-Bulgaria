@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\1 Letters\\1 Letters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F37481D-F20C-4125-8868-3BB8006D3B43}|..\\..\\3 Matching Locations\\3 Matching Locations.vcxproj|C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\3 Matching Locations\\3 Matching Locations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8505F5B-3F07-4978-ACFC-8D53196AC83A}|..\\..\\2 Rust\\2 Rust.vcxproj|C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\2 Rust\\2 Rust.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C03140E-1175-43CA-8F41-8562CBA4E553}|1 Letters\\1 Letters.vcxproj|C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\1 Letters\\1 Letters\\1 Letters\\1 Letters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C03140E-1175-43CA-8F41-8562CBA4E553}|1 Letters\\1 Letters.vcxproj|solutionrelative:1 Letters\\1 Letters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3 Matching Locations.cpp",
+              "DocumentMoniker": "C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\3 Matching Locations\\3 Matching Locations.cpp",
+              "RelativeDocumentMoniker": "..\\..\\3 Matching Locations\\3 Matching Locations.cpp",
+              "ToolTip": "C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\3 Matching Locations\\3 Matching Locations.cpp",
+              "RelativeToolTip": "..\\..\\3 Matching Locations\\3 Matching Locations.cpp",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAiwIAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T11:02:18.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2 Rust.cpp",
+              "DocumentMoniker": "C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\2 Rust\\2 Rust.cpp",
+              "RelativeDocumentMoniker": "..\\..\\2 Rust\\2 Rust.cpp",
+              "ToolTip": "C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\2 Rust\\2 Rust.cpp",
+              "RelativeToolTip": "..\\..\\2 Rust\\2 Rust.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T09:21:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1 Letters.cpp",
+              "DocumentMoniker": "C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\1 Letters\\1 Letters\\1 Letters\\1 Letters.cpp",
+              "RelativeDocumentMoniker": "1 Letters\\1 Letters.cpp",
+              "ToolTip": "C:\\Dev\\SoftUni-Bulgaria\\C\u002B\u002B\\4 OOP\\1 Objects and Classes\\Lab\\1 Letters\\1 Letters\\1 Letters\\1 Letters.cpp",
+              "RelativeToolTip": "1 Letters\\1 Letters.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T11:39:45.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
